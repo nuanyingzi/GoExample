@@ -1,5 +1,7 @@
 package main
 
+// 数据类型
+
 import "fmt"
 
 func main() {
