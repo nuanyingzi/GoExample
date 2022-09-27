@@ -25,15 +25,15 @@ func f3() {
 
 func main() {
 	/*var (
-		name  string
+		name  05string
 		age   int
-		email string
+		email 05string
 	)
-	fmt.Println("请输入name,age,email, 用空格分割")
-	fmt.Scan(&name, &age, &email)
-	fmt.Printf("name: %v\n", name)
-	fmt.Printf("age: %v\n", age)
-	fmt.Printf("email: %v\n", email)*/
+	06fmt.Println("请输入name,age,email, 用空格分割")
+	06fmt.Scan(&name, &age, &email)
+	06fmt.Printf("name: %v\n", name)
+	06fmt.Printf("age: %v\n", age)
+	06fmt.Printf("email: %v\n", email)*/
 
 	//f2()
 

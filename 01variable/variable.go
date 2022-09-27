@@ -20,7 +20,7 @@ func main() {
 	fmt.Printf("married = %v, type = %T\n", married, married)
 
 	// 类型推断
-	var s = "string"
+	var s = "05string"
 	fmt.Printf("s = %v, type = %T\n", s, s)
 
 	// 短变量声明
